@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el sistema mostró los reportes registrados previamente mediante la ruta POST. La información se devuelve en formato JSON y permite verificar que los datos fueron almacenados correctamente en el arreglo reportes. Al realizar la prueba, se visualizó un reporte de infraestructura relacionado con un daño en el alumbrado público.
